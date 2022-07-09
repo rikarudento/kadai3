@@ -1,0 +1,13 @@
+// Place all the styles related to the users controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: https://sass-lang.com/
+.inline-block {
+    display: inline-block;      /* インラインブロック要素にする */
+    background-color:  #ccc;    /* 背景色指定 */
+    padding:  20px;             /* 余白指定 */
+    height: 100px;              /* 高さ指定 */
+}
+
+.row {
+    display: flex;
+    }
